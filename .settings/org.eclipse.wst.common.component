@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="JFinal-v1.9-bootstrap-weixin">
+        <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/controller"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/model"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/config"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/util"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/aop"/>
+        <property name="java-output-path" value="/JFinal-v1.9-bootstrap-weixin/WebRoot/WEB-INF/classes"/>
+        <property name="context-root" value="JFinal-v1.9-bootstrap-weixin"/>
+    </wb-module>
+</project-modules>

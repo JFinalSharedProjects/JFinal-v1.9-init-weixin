@@ -1,0 +1,1 @@
+ngrok.exe -config ngrok.cfg -subdomain wicky 80
