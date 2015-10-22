@@ -1,4 +1,4 @@
-#The Weixin Initial Project by using JFinal v1.9
+#The Weixin Initial Project using JFinal v1.9
 
 You should:
 
